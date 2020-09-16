@@ -1,8 +1,7 @@
 # GitTest
 Es un proyecto de pruebas para aprender **Git** y **GitHub**
-//Compu mundo hypermegared///
 
++ Compu mundo Hypermegared
++ Tenazas
 
-
-
-//asdasdasdad//
+## ouch
